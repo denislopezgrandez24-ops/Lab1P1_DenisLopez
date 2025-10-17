@@ -15,6 +15,7 @@ public class Lab1P1_DenisLopez {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Hello World
     }
     
 }
